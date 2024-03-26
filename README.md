@@ -2,7 +2,7 @@ Durvasa is a  gemma model finetuned on the  L3Cube-MahaNLP dataset , it is the w
 
 Hugging face Repo:- [Durvasa_2B_GGUF](https://huggingface.co/Vikasith/Durvasa_2B_GGUF)
 
-Specifications: Q4_K_M( GGUF Quantized model) 
+Specifications: Q4_K_M( 4 bit Quantized model in GGUF format) 
 
 How to run: 
 

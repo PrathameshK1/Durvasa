@@ -1,5 +1,5 @@
 Durvasa is a  gemma model finetuned on the 
-[L3Cube-MahaNLP](https://github.com/l3cube-pune/MarathiNLP)  , it is the world's first marathi LLM available in GGUF format 
+more than 289 million tokens of textual data , it is the world's first marathi LLM available in GGUF format 
 
 Hugging face Repo:- [Durvasa_2B_GGUF](https://huggingface.co/Vikasith/Durvasa_2B_GGUF)
 

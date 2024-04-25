@@ -13,4 +13,8 @@ How to run:
 4) Enjoy!
 
 Feedback appreciated!
+![image](https://github.com/PrathameshK1/Durvasa/assets/143098634/e6e97bc9-c1b6-41d4-8d35-fcb79dd6ed01)
+![image](https://github.com/PrathameshK1/Durvasa/assets/143098634/0d3a62e1-4d52-41a5-b2b9-e72f80ab3f42)
+
+
    
